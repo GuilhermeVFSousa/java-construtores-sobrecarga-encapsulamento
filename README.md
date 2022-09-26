@@ -24,7 +24,7 @@ informado o valor de depósito inicial. Em seguida, realizar um depósito e depo
 mostrando os dados da conta após cada operação.
 
 
-![](https://i.postimg.cc/Sx4Nw55P/Gif-criar-conta-bancaria-Made-with-Flex-Clip.gif)
+![](https://github.com/GuilhermeVFSousa/java-construtores-sobrecarga-encapsulamento/blob/master/Gif-criar-conta-bancaria.gif)
 [Ver gif](https://i.postimg.cc/Sx4Nw55P/Gif-criar-conta-bancaria-Made-with-Flex-Clip.gif)
 
  
@@ -36,13 +36,6 @@ mostrando os dados da conta após cada operação.
 Faça um programa para ler a cotação do dólar, e depois um valor em dólares a ser comprado por
 uma pessoa em reais. Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda
 que a pessoa terá que pagar 6% de IOF sobre o valor em dólar.
-![Gif-currency-converter-Made-with-Flex-Clip.gif](https://i.postimg.cc/QNw3TcY8/Gif-currency-converter-Made-with-Flex-Clip.gif)
+![Gif-currency-converter-Made-with-Flex-Clip.gif](https://github.com/GuilhermeVFSousa/java-construtores-sobrecarga-encapsulamento/blob/master/Gif-currency-converter.gif)
 [Ver gif](https://i.postimg.cc/QNw3TcY8/Gif-currency-converter-Made-with-Flex-Clip.gif)
     
-## Referências
-
- - [SQL vs NoSQL, qual usar?](https://www.treinaweb.com.br/blog/sql-vs-nosql-qual-usar)
- - [Os principais SGBDs NoSQL](https://www.treinaweb.com.br/blog/os-principais-sgbds-nosql/)
- - [Os principais SGBDs relacionais](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Banco de dados: entenda o que é um banco de dados relacional e não relacional](https://www.digitalhouse.com/br/blog/banco-de-dados-relacional-e-nao-relacional/)
-
