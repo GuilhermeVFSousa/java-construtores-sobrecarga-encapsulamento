@@ -25,7 +25,7 @@ mostrando os dados da conta após cada operação.
 
 
 ![](https://github.com/GuilhermeVFSousa/java-construtores-sobrecarga-encapsulamento/blob/master/Gif-criar-conta-bancaria.gif)
-[Ver gif](https://i.postimg.cc/Sx4Nw55P/Gif-criar-conta-bancaria-Made-with-Flex-Clip.gif)
+
 
  
  ##
@@ -37,5 +37,5 @@ Faça um programa para ler a cotação do dólar, e depois um valor em dólares 
 uma pessoa em reais. Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda
 que a pessoa terá que pagar 6% de IOF sobre o valor em dólar.
 ![Gif-currency-converter-Made-with-Flex-Clip.gif](https://github.com/GuilhermeVFSousa/java-construtores-sobrecarga-encapsulamento/blob/master/Gif-currency-converter.gif)
-[Ver gif](https://i.postimg.cc/QNw3TcY8/Gif-currency-converter-Made-with-Flex-Clip.gif)
+
     
